@@ -4,4 +4,7 @@ Just wanna save my notes
 <p align="center">
 <img src="http://www.hackthebox.eu/badge/image/700316" alt="Hack The Box">
 </p>
-
+<p align="center">
+<img src="https://img.icons8.com/wired/64/undefined/python.png"/>
+<img src="https://img.icons8.com/plasticine/64/undefined/bash.png"/>
+</p>
