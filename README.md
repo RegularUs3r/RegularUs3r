@@ -13,5 +13,5 @@ Just wanna save my notes
 
 <p align="center">
 <img src="https://img.icons8.com/wired/64/undefined/python.png"/>
-<!--<img src="https://img.icons8.com/plasticine/64/undefined/bash.png"/>-->
+<img src="https://img.icons8.com/plasticine/64/undefined/bash.png"/>
 </p>
